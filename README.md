@@ -1,2 +1,5 @@
 # ciyaa
-iyaa sayangku kenapa? 
+menu all
+.proses
+.p
+.done
